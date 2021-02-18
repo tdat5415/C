@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\5~13">
+      <UniqueIdentifier>{3422e790-5c3b-4fdc-b324-322789905351}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\14~">
+      <UniqueIdentifier>{8197f002-ae2a-4df0-b968-f9159ff40b55}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="only_test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="day05_01_test.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day05_02_random.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day05_03_random.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day05_04_random.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day05_05_while.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day06_01_test.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day06_02_while.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day06_03_test.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day06_04_test.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day06_05_test.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day06_06_prime.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day07_01_test.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day07_02_test.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day07_03_if.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day07_04_array.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day07_05_array.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day07_06_array.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day08_01_test.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day08_02_array.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day08_03_array.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day08_04_array.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day08_05_array.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day09_01_test.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day09_02_test.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day09_03_array.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day09_04_test.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day10_01_array.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day10_02_test.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day10_03_max.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day11_01_array.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day11_02_switch.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day11_03_for.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day11_04_D_for.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day11_05_dfor.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day11_06_dfor.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day12_01_BB.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day12_02_card.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day12_03_check.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day13_01_array.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day13_02_array.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day13_03_array.cpp">
+      <Filter>소스 파일\5~13</Filter>
+    </ClCompile>
+    <ClCompile Include="day14_05_function.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day14_04_pointer.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day14_03_pointer.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day14_02_pointer.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day14_01_pointer.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day14_06_function.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day15_01_test.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day15_02_pointer.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day15_03_pointer.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day15_04_pointer.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day16_01_test.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day16_02_pointer.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day16_03_pointer.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day17_01_test.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day17_02_test.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day17_03_str.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day17_04_pointer.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day17_05_pointer.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day17_06_pointer.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day18_01_test.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day18_03_str.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="_____day15_05_pointer.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="_____day18_02_test.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="_____day18_04_str.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day19_01_test.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day19_02_struct.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="_____day19_03_struct.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day20_01_test.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day20_02_saveload.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day20_03_save.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+    <ClCompile Include="day20_04_load.cpp">
+      <Filter>소스 파일\14~</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
